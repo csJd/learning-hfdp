@@ -2,7 +2,7 @@
  * Created by dd on 2016/5/13.
  */
 
-public class Main {
+public class Test {
 
     public static void main(String[] args) {
         AppConfig configA = AppConfig.getConfig();
