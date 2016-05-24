@@ -5,7 +5,7 @@ package bridge;
  */
 public class Sugar implements Sauce{
     @Override
-    public void show() {
-        System.out.println(" with sugar");
+    public void show(String name) {
+        System.out.println(name + " with sugar");
     }
 }

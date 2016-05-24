@@ -5,7 +5,7 @@ package bridge;
  */
 public class Lemon implements Sauce{
     @Override
-    public void show() {
-        System.out.println(" with lemon");
+    public void show(String name) {
+        System.out.println(name + " with lemon");
     }
 }

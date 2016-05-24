@@ -5,7 +5,7 @@ package bridge;
  */
 public abstract class Coffee {
     protected Sauce sauce;
-    public void setSauce(Sauce sauce){
+    public Coffee(Sauce sauce){
         this.sauce = sauce;
     }
     public abstract void show();
