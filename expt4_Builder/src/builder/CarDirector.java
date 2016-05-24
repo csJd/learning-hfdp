@@ -3,10 +3,10 @@ package builder;
 /**
  * Created by dd on 2016/5/24.
  */
-public class CarDirecter {
+public class CarDirector {
     private CarBuilder builder = null;
 
-    public CarDirecter(String type) {
+    public CarDirector(String type) {
         if (type.equals("BMW")) {
             builder = new BMWCarBuilder();
         } else builder = new BenZCarBuilder();

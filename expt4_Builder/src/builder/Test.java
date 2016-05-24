@@ -5,10 +5,10 @@ package builder;
  */
 public class Test {
     public static void main(String[] args) {
-        CarDirecter directer = new CarDirecter("BenZ");
-        directer.constractCar().show();
+        CarDirector director = new CarDirector("BenZ");
+        director.constractCar().show();
 
-        directer = new CarDirecter("BMW");
-        directer.constractCar().show();
+        director = new CarDirector("BMW");
+        director.constractCar().show();
     }
 }
