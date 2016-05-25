@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0ab8a304-f699-4645-b3ae-49f0fdc75331" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <ignored path="expt6_Bridge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -457,7 +456,7 @@
       <workItem from="1464095136724" duration="2452000" />
       <workItem from="1464101431859" duration="2021000" />
       <workItem from="1464129641304" duration="1838000" />
-      <workItem from="1464131517588" duration="121000" />
+      <workItem from="1464131517588" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="add expt6 bridge">
       <created>1464103758147</created>
@@ -473,11 +472,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464131436478</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modified readme.md">
+      <created>1464131662908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1464131662908</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7944000" />
+    <option name="totallyTimeSpent" value="7987000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -529,7 +535,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add expt6 bridge" />
     <MESSAGE value="correct expt6 and add readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="correct expt6 and add readme.md" />
+    <MESSAGE value="modified readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified readme.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
